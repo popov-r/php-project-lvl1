@@ -1,8 +1,9 @@
-{
+{   "description": "version 1",
+
     "name": "hexlet/code",
     "bin": [
         "bin/brain-games"
-      ]
+      ],
     "authors": [
         {
             "name": "Krakozabr",
